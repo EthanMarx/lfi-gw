@@ -1,4 +1,4 @@
-name: gwml
+name: burst-mlpe 
 channels:
   - conda-forge
   - defaults
